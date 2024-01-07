@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ec2ef0523f41d284a6b7a5ed01a583dc',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '5e6782e401ed72dfcba10bfae31e101a',
+  'native_key' => 'OnResourceAutoPublish',
+  'object' => '{"name":"OnResourceAutoPublish","service":1,"groupname":"Resources"}',
+);

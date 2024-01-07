@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e053f66df2cc99a11e23a0e41b9c0edc',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'b958befc97592e35e68e9f6c12ea830d',
+  'native_key' => 'log_level',
+  'object' => '{"key":"log_level","value":"1","xtype":"textfield","namespace":"core","area":"system","editedon":null}',
+);

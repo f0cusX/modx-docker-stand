@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'af2f69d4486ce31390d1ca1c525a2e48',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '19be5b8adb4e88d7c82cb480411fe279',
+  'native_key' => 'allow_tags_in_post',
+  'object' => '{"key":"allow_tags_in_post","value":false,"xtype":"combo-boolean","namespace":"core","area":"system","editedon":null}',
+);

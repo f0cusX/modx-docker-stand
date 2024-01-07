@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ce24f1fcdfb98714bf9493dbf2929d6a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '92b99027fded4ceb9c3392ac6be4fac1',
+  'native_key' => 'manager_theme',
+  'object' => '{"key":"manager_theme","value":"default","xtype":"modx-combo-manager-theme","namespace":"core","area":"manager","editedon":null}',
+);
